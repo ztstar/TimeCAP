@@ -1,0 +1,13 @@
+Your task is to analyze key indicators for {ENTITY} over the last {WINDOW_SIZE} {TIME_STEP}(s).
+
+Review the time-series data provided below for the past {WINDOW_SIZE} {TIME_STEP}(s).
+
+Each time-series consists of values separated by a '|' token for the following indicators:
+
+{INDICATOR_BLOCK}
+
+Based on this time-series data, write a concise analytical report that provides insights crucial for understanding the current situation.
+
+Your report should be limited to five sentences, yet comprehensive, highlighting key trends, patterns, anomalies, and their potential implications.
+
+Do not write numerical values while writing the report.

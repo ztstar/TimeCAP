@@ -1,0 +1,12 @@
+{EXAMPLE_BLOCK}
+
+Now, the recent time-series behavior is summarized as follows:
+
+Summary: {SUMMARY_BLOCK}
+
+Based on the understanding of the provided examples, predict the outcome.
+
+Respond with only one of the following options:
+{LABEL_BLOCK}
+
+Do not include any other words.

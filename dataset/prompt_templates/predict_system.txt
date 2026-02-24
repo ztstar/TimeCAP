@@ -1,0 +1,1 @@
+Your job is to act as a professional {DOMAIN} forecaster. You will be given a summary describing recent time-series behavior. Based on this information, your task is to predict whether {TARGET_EVENT_DESCRIPTION}.

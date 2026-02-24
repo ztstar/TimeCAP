@@ -1,0 +1,17 @@
+Your task is to analyze the following indicator for {ENTITY} over the last {WINDOW_SIZE} {TIME_STEP}(s).
+
+Review the time-series data provided below for the past {WINDOW_SIZE} {TIME_STEP}(s).
+
+The time-series consists of values separated by a '|' token for the following indicator:
+
+{INDICATOR_NAME}
+
+Time-series data:
+
+{INDICATOR_SERIES}
+
+Based on this time-series data, write a concise analytical report that provides insights crucial for understanding the current behavior of this indicator.
+
+Your report should be limited to three sentences, yet comprehensive, highlighting key trends, patterns, anomalies, and their potential implications.
+
+Do not write numerical values while writing the report.
